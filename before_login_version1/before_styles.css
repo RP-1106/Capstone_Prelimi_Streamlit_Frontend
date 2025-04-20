@@ -1,0 +1,23 @@
+.st-key-si_p button{
+    display:None;
+}
+
+/*
+code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    
+    padding: 0 3px;
+  }
+*/    
+  
+
+
+  code{ /* Or whatever class you're using */
+      background-color: #eee;
+      border-radius: 1px;
+      font-family: sans-serif;  
+      font-weight: bold; /* Make the text bold */
+      padding: 0 2px;
+  }
